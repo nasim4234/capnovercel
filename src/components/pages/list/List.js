@@ -4,7 +4,7 @@ import Sidebar from '../../component/Sidebar';
 import Header from '../../component/Header';
 import MaterialTable from 'material-table';
 import download from '../../images/download.png'
-import preveiw from '../../images/preveiw.png'
+import preveiw from '../../images/preveiw.png' 
 import Delete from '../../images/delete.png';
 import { API_URL } from '../../../config';
 import edit from '../../images/edit.png'
