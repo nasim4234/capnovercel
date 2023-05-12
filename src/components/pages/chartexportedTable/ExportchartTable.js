@@ -1,5 +1,5 @@
 
-import React, { Component, useCallback, useEffect, useState } from 'react';
+import React, { Component, useEffect, useState } from 'react';
 import { Link, useParams, Router } from 'react-router-dom';
 import RangeSlider from 'react-bootstrap-range-slider';
 import { ModalHeader, Modal, ModalBody } from "reactstrap";
