@@ -85,6 +85,9 @@
     "@types/reactstrap": "^6.4.0",
     "sass": "^1.49.10"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
