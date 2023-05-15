@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import AwesomeSlider from 'react-awesome-slider';
-import 'react-awesome-slider/dist/styles.css';
+
 import $ from "jquery";
 import Footer from '../../pages/footer.js';
 
